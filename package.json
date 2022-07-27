@@ -12,6 +12,7 @@
     "deploy": "wrangler publish"
   },
   "dependencies": {
-    "@tsndr/cloudflare-worker-jwt": "^2.0.1"
+    "@tsndr/cloudflare-worker-jwt": "^2.0.1",
+    "itty-router": "^2.6.1"
   }
 }
